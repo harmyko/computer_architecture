@@ -46,10 +46,10 @@ This lab simulates the `PUSH reg` instruction and outputs operation data each ti
 ## Overview
 This lab (also) simulates the `POP reg` instruction and outputs operation data each time it is called.
 
-# lab_3_5 reg MOV reg Disassembly
+# lab_3_5 MOV reg, reg Disassembly
 
 ## Overview
-This lab simulates the `reg MOV reg` instruction and outputs operation data each time it is called.
+This lab simulates the `MOV reg, reg` instruction and outputs operation data each time it is called.
 
 
 
