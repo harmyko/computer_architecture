@@ -20,12 +20,6 @@ This program compares the contents of two files. It takes the names of two files
 - It stores the differing byte positions in a new file (`rez.txt`).
 - If an error occurs during file operations, an error message is displayed.
 
-### Steps:
-1. The program accepts the names of two files.
-2. It reads the contents of the files into buffers.
-3. It compares the files byte by byte.
-4. The differing byte positions are written into the `rez.txt` file.
-
 # lab_3_1: POP reg Disassembly
 
 ## Overview
