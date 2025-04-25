@@ -31,7 +31,7 @@ This program compares the contents of two files. It takes the names of two files
 ## Overview
 This lab simulates the `POP reg` instruction and outputs operation data each time it is called.
 
-# lab_3_2: POP r/m Disassembly
+# lab_3_2: POP mem Disassembly
 
 ## Overview
 This lab simulates the `POP mem` instruction and outputs operation data each time it is called.
