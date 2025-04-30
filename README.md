@@ -21,28 +21,18 @@ This program compares the contents of two files. It takes the names of two files
 - If an error occurs during file operations, an error message is displayed.
 
 # lab_3_1: POP reg Disassembly
-
-## Overview
 This lab simulates the `POP reg` instruction and outputs operation data each time it is called.
 
 # lab_3_2: POP mem Disassembly
-
-## Overview
 This lab simulates the `POP mem` instruction and outputs operation data each time it is called.
 
 # lab_3_3: PUSH reg Disassembly
-
-## Overview
 This lab simulates the `PUSH reg` instruction and outputs operation data each time it is called.
 
 # lab_3_4 POP reg Disassembly
-
-## Overview
 This lab (also) simulates the `POP reg` instruction and outputs operation data each time it is called.
 
 # lab_3_5 MOV reg, reg Disassembly
-
-## Overview
 This lab simulates the `MOV reg, reg` instruction and outputs operation data each time it is called.
 
 
